@@ -6,6 +6,6 @@
 ## [Work Experience](jobs.md)
 ## [Technical Skills](technical.md)
 ## [Projects](projects.md)
-## [Activites](activites.md)
+## [Activites](activities.md)
 
 
