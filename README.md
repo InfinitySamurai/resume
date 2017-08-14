@@ -7,5 +7,6 @@
 ## [Technical Skills](technical.md)
 ## [Projects](projects.md)
 ## [Activites](activities.md)
+## [Soft Skills](softskills.md)
 
 
