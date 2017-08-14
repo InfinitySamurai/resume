@@ -9,3 +9,13 @@
   difficult students or scenarios
 
 ### Invent the World Lead Teacher (2015 September - Present)
+
+* Teaching after school and holiday programming clubs/courses
+* Managing and leading classrooms with other teachers
+* Creating a fun and enthusiastic learning atmosphere in the classes
+* Developing programs to improve administration workflow
+* Contributing to updates for backend technologies via Gitlab
+* Co-ordination and content creation with other staff
+* Administration duties such as liaising with customers and updating records in
+  the backend database
+* Creation of front-facing marketing material for new clubs and courses
