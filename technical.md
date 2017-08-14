@@ -24,6 +24,7 @@
 ### Frameworks/Libraries
 
 * Monogame
+* PixiJS
 * JQuery
 * Django
 * Entitas
