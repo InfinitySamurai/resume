@@ -1,5 +1,7 @@
 # Activites
 
+### Technology based
+
 * As part of my computing hobby, I frequently assess and troubleshoot hardware
   and software systems
 * I enjoy playing with electronics and have built a fully functioning LED cube,
@@ -15,4 +17,9 @@
   server infrastructure, and administration of the player base to ensure
   enjoyment by all players.
 
+### Other
 
+* Bush walking - Endurance and regard for nature
+* Camping - Practical skills and organisation
+* Squash - Agility and perseverance against strong competition
+* Volleyball - Teamwork and dedication
