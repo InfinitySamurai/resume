@@ -2,6 +2,9 @@
 
 ### Technology based
 
+* I participated in the 2017 Australian Payments Council Hackathon in
+  Melbourne, using the new Open Bank Project API. My team created, developed,
+  and pitched an idea in 48 hours and won first prize
 * As part of my computing hobby, I frequently assess and troubleshoot hardware
   and software systems
 * I enjoy playing with electronics and have built a fully functioning LED cube,
