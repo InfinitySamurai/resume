@@ -32,3 +32,5 @@
 ### Other skills
 
 * Setting up and running cloud servers
+* Proficient with Git version controll
+* First aid 
