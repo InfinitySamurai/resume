@@ -5,5 +5,6 @@
 ## [Education](education.md)
 ## [Work Experience](jobs.md)
 ## [Technical Skills](technical.md)
+## [Projects](projects.md)
 
 
