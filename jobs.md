@@ -19,3 +19,10 @@
 * Administration duties such as liaising with customers and updating records in
   the backend database
 * Creation of front-facing marketing material for new clubs and courses
+
+### University College Kitchenhand (2013 - 2016 June)
+
+* Serving food to a large number of students quickly
+* Fast-paced working environment
+* Adherence to strict cleanliness regimes
+* Closing duties, ensuring the kitchen and dining area is clean and secure
