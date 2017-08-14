@@ -28,3 +28,16 @@ different communication channels.
   management tools to ensure students' are on track for projects 
 * One on one tutoring with university students
 
+### Teamwork
+
+Teamwork is a day to day occurrence, and something that I am proficient at
+
+* For team based projects at Invent the World, I made sure that any tasks
+  assigned to me were complete by due dates so that other staff could complete
+  their work on time.
+* Working in a classroom with another staff member required co-ordination to
+  make sure that all students got the attention they required, as well as
+  efficient set-up and pack-up.
+* Working on Git projects both in my own time and through Invent the World
+  required good communication and the use of organisational tools to make sure that issues were
+  raised and addressed in a timely fashion
