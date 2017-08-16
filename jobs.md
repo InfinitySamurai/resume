@@ -19,6 +19,7 @@
 * Administration duties such as liaising with customers and updating records in
   the backend database
 * Creation of front-facing marketing material for new clubs and courses
+* Mentor for new staff members
 
 ### University College Kitchenhand (2013 - 2016 June)
 
