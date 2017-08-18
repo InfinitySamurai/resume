@@ -2,7 +2,7 @@
 
 ## A repository for all of my experience: work, hobbies and education
 
-This is a place for me to store all the stuff that I know. Typically i forget a
+This is a place for me to store all the stuff that I know. Typically I forget a
 lot of the experience that I have, and this is going to be my place that I can
 refer back to when I feel like I don't know anything, or if I'm building a
 resume.
