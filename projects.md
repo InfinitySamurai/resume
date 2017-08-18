@@ -2,6 +2,12 @@
 
 ## https://github.com/InfinitySamurai
 
+### emFund - 2017 hackathon winner
+
+* Hosted by the Australian Payments Council
+* Best Overall App
+* Open Bank Project API
+
 ### Payslip generator
 
 * Python program to generate payslips

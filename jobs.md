@@ -6,7 +6,7 @@
 * Managing students so they are on track and learning desired outcomes
 * Planning and delivery of content for classes every week
 * Meetings with professor and other tutors to improve teaching style and handle
-  difficult students or scenarios
+  difficult scenarios
 
 ### Invent the World Lead Teacher (2015 September - Present)
 
@@ -19,6 +19,7 @@
 * Administration duties such as liaising with customers and updating records in
   the backend database
 * Creation of front-facing marketing material for new clubs and courses
+* Mentor for new staff members
 
 ### University College Kitchenhand (2013 - 2016 June)
 

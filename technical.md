@@ -31,6 +31,7 @@
 
 ### Other skills
 
-* Setting up and running cloud servers
-* Proficient with Git version controll
-* First aid 
+* Setting up and running cloud servers (Linux based)
+* Good Linux understanding. Use Arch Linux
+* Proficient with Git version control
+* First aid
