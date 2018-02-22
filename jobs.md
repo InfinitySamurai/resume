@@ -1,6 +1,11 @@
 # Work experience
 
-### RMIT University Tutor (2016 August - Present)
+### BGL Corporate Solutions (2017 September - 2018 February)
+
+* Started as a Test Analyst
+* Progressed to Java Developer
+
+### RMIT University Tutor (2016 August - 2017 June)
 
 * Tutoring first year university subjects such as Intro to IT
 * Managing students so they are on track and learning desired outcomes
@@ -8,7 +13,7 @@
 * Meetings with professor and other tutors to improve teaching style and handle
   difficult scenarios
 
-### Invent the World Lead Teacher (2015 September - Present)
+### Invent the World Lead Teacher (2015 September - 2017 July)
 
 * Teaching after school and holiday programming clubs/courses
 * Managing and leading classrooms with other teachers
