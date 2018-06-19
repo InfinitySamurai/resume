@@ -12,5 +12,5 @@
     * Object Oriented Programming
     * 3D Programming
     * HLSL
-    * Software Modelling and Design
+    * Software Modeling and Design
     * GIS applications

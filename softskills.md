@@ -25,7 +25,7 @@ different communication channels.
   solutions
 * Teaching programming and IT concepts to first year university students both
   in the classroom and through email correspondence. Also using other time/task
-  management tools to ensure students' are on track for projects 
+  management tools to ensure students' are on track for projects
 * One on one tutoring with university students
 
 ### Teamwork
@@ -39,5 +39,5 @@ Teamwork is a day to day occurrence, and something that I am proficient at
   make sure that all students got the attention they required, as well as
   efficient set-up and pack-up.
 * Working on Git projects both in my own time and through Invent the World
-  required good communication and the use of organisational tools to make sure that issues were
+  required good communication and the use of organizational tools to make sure that issues were
   raised and addressed in a timely fashion

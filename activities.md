@@ -1,4 +1,4 @@
-# Activites
+# Activities
 
 ### Technology based
 
@@ -23,6 +23,6 @@
 ### Other
 
 * Bush walking - Endurance and regard for nature
-* Camping - Practical skills and organisation
+* Camping - Practical skills and organization
 * Squash - Agility and perseverance against strong competition
 * Volleyball - Teamwork and dedication

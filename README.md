@@ -14,7 +14,5 @@ that isn't worded well, or a spelling mistake, please let me know!
 ### [Work Experience](jobs.md)
 ### [Technical Skills](technical.md)
 ### [Projects](projects.md)
-### [Activites](activities.md)
+### [Activities](activities.md)
 ### [Soft Skills](softskills.md)
-
-

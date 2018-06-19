@@ -23,6 +23,7 @@
 
 ### Frameworks/Libraries
 
+* MEAN stack
 * Monogame
 * PixiJS
 * JQuery
