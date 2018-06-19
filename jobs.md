@@ -2,8 +2,12 @@
 
 ### BGL Corporate Solutions (2017 September - 2018 February)
 
-* Started as a Test Analyst
-* Progressed to Java Developer
+* Test analyst
+* Designed, created and implemented end-to-end testing framework
+* Ensured quality of the product through rigorous attention to detail
+* Reported well documented bugs and issues through Jira
+* Contributed to the front and back end codebases (Java Spring and AngularJS)
+* Used git version control extensively
 
 ### RMIT University Tutor (2016 August - 2017 June)
 
