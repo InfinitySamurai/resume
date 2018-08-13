@@ -14,6 +14,14 @@
 * Takes in a Latex template and pay data spreadsheet
 * Generates payslips for all staff on today's date/given date
 
+### Reverse Polish Notation Calculator
+
+* A js implementation of a reverse polish notation calculator
+* Uses typescript
+* Uses Hapi to run a server with API endpoints to provide an interface
+* Has full testing coverage using Mocha and Chai
+* Uses gulp to fully automate testing, building, cleaning, and server running
+
 ### Spin to Win
 
 * Web based incremental game
@@ -26,7 +34,12 @@
 * Extensive use of Javascript and JQuery
 * Code decoupling to ensure extensibility
 
-### BundleDrop
+### BundleDrop (release)
+
+* Godot based game
+* Complete game released on itch.io
+
+### BundleDrop (prototype)
 
 * C# based game
 * Monogame framework
